@@ -1,3 +1,2 @@
-echoschool
- echo ALX 
- echo school 
+#!/bin/bash
+echo "School"
